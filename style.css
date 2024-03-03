@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-family: fantasy;
+    margin-top: 100px;
+}
+
+#background{
+    background-color: rgb(241, 231, 231);
+}

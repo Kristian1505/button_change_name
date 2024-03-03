@@ -3,4 +3,5 @@ function changeName(){
     document.getElementById("name").textContent = "Hola " + name;
     document.title = "Saludos " + name;
 
+
 }
